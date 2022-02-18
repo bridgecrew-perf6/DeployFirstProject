@@ -5,3 +5,6 @@ spring:
     config:
       enabled: true
       uri: http://localhost:8001
+  data:
+    mongodb:
+      uri: mongodb+srv://edwar123:edwar123@cluster0.naakg.mongodb.net/BootcampCustomer?retryWrites=true&w=majority
